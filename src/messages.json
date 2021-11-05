@@ -1,0 +1,108 @@
+{
+    "messages": [
+        {
+            "id": "1",
+            "text": "Never stop learning!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "2",
+            "text": "O DoWhile 2021 vai ser sensacional, mal vejo a hora!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "3",
+            "text": "Que dia vai ser mesmo?",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "4",
+            "text": "Entrem no canal do discord, lá tem todas as informações!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "5",
+            "text": "Quero ver que piada sem graça o Diego vai fazer dessa vez...",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "6",
+            "text": "HAHAHAHAHAHA!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "7",
+            "text": "KKKKKKKKKKKKKKKKKKKKK",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "8",
+            "text": "Chapéus, sapatos, ou roupa usada quem tem?",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },   
+        {
+            "id": "9",
+            "text": "A Rocketseat é top demais",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },   
+        {
+            "id": "10",
+            "text": "KKKKKKKKKKKKKKKKKKKKK",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },   
+        {
+            "id": "11",
+            "text": "Os caras se superam a cada dia, brabo demais",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },   
+        {
+            "id": "12",
+            "text": "Quanta ansiedade por esse DoWhile, chega logo dezembro!!!!!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        },
+        {
+            "id": "13",
+            "text": "Alô Goiânia!",
+            "user": {
+                "name": "Anônimo",
+                "avatar_url": "https://i.stack.imgur.com/frlIf.png"
+            }
+        }        
+    ]
+}
